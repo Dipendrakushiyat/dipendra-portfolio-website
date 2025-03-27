@@ -1,28 +1,67 @@
 // import images
-import profile_person from "./assets/images/Profile/dipu.png";
+import profile_person from "../public/assets/images/Profile/dipu.png";
 
-import angular from "./assets/images/Skills/angular.png";
 
-import express from "./assets/images/Skills/express-js.png";
-import mongo from "./assets/images/Skills/mongodb.png";
-import reactjs from "./assets/images/Skills/react.png";
-import nodejs from "./assets/images/Skills/node.png";
-import version from "./assets/images/Skills/version.jpg";
+// import angular from "./assets/images/Skills/angular.png";
+// import angular from "../public/assets/images/Skills/angular.png";
+const angular = "./assets/images/Skills/angular.png"; 
 
-import frontend_logo from "./assets/images/Services/frontend.png";
-import backend_logo from "./assets/images/Services/backend.png";
-import database_logo from "./assets/images/Services/database.png";
-import api_logo from "./assets/images/Services/api.png";
-import performance_logo from "./assets/images/Services/performance.png";
 
-import benetro from "./assets/images/Projects/benetro.png";
-import employee from "./assets/images/Projects/employee.png";
-import valentine from "./assets/images/Projects/valentines.jpg";
-import person_project from "./assets/images/Projects/Dipendra.jpg";
-import technical from "./assets/images/Projects/Technical.png"
+// import express from "./assets/images/Skills/express-js.png";
+// import express from "../public/assets/images/Skills/express-js.png";
+const express = "assets/images/Skills/express-js.png"
 
-import benekiva from "./assets/images/Experiences/benekiva.png";
-import searchable from "./assets/images/Experiences/searchable.jpg";
+// import mongo from "../public/assets/images/Skills/mongodb.png";
+const mongo = "assets/images/Skills/mongodb.png";
+
+// import reactjs from "../public/assets/images/Skills/react.png";
+const reactjs = "assets/images/Skills/react.png";
+
+// import nodejs from "../public/assets/images/Skills/node.png";
+const nodejs = "assets/images/Skills/nodejs.png";
+
+// import version from "../public/assets/images/Skills/version.jpg";
+const version = "assets/images/Skills/version.jpg";
+
+
+// import frontend_logo from "../public/assets/images/Services/frontend.png";
+const frontend_logo = "assets/images/Services/frontend.png";
+
+// import backend_logo from "../public/assets/images/Services/backend.png";
+const backend_logo = "assets/images/Services/backend.png";
+
+// import database_logo from "../public/assets/images/Services/database.png";
+const database_logo = "assets/images/Services/database.png";
+
+// import api_logo from "../public/assets/images/Services/api.png";
+const api_logo = "assets/images/Services/api.png";
+
+// import performance_logo from "../public/assets/images/Services/performance.png";
+const performance_logo = "assets/images/Services/efficiency.png";
+
+
+// import benetro from "../public/assets/images/Projects/benetro.png";
+const benetro = "assets/images/Projects/benetro.png";
+
+// import employee from "../public/assets/images/Projects/employee.png";
+const employee = "assets/images/Projects/employee.png";
+
+// import valentine from "../public/assets/images/Projects/valentines.jpg";
+const valentine = "assets/images/Projects/valentines.jpg";
+
+// import person_project from "../public/assets/images/Projects/Dipendra.jpg";
+const person_project = "assets/images/Projects/Dipendra.jpg";
+
+// import technical from "../public/assets/images/Projects/Technical.png"
+const technical = "assets/images/Projects/Technical.png";
+
+
+// import benekiva from "../public/assets/images/Experiences/benekiva.png";
+const benekiva = "assets/images/Experiences/benekiva.png";
+
+// import searchable from "../public/assets/images/Experiences/searchable.jpg";
+const searchable = "assets/images/Experiences/searchable.jpg";
+
 
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
